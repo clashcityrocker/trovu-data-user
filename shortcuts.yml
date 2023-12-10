@@ -1,11 +1,18 @@
-# Documentation:
-# https://trovu.net/docs/shortcuts/
-
-examplekeyword 0: http://www.example.com/
-examplekeyword 1: http://www.example.com/?q=<query>
-examplekeyword 2:
-  url: http://www.example.com/?q=<query>&p=<puery>
-  title: Custom shortcut
-  description: My custom shortcut with the keyword examplekeyword and 2 arguments.
-  tags:
-  - example
+bbcn 0:
+  url: http://news.bbc.co.uk
+  title: BBC News
+bbcs 0:
+  url: http://news.bbc.co.uk/sport
+  title: BBC Sport
+tert 0:
+  url: http://projects.henara.de/projects/atotech-messdatentransfer-sap/issues?query_id=15
+  title: HeNaRa ERT Tickets
+tphynm 0:
+  url: http://projects.henara.de/projects/physio/issues?query_id=22
+  title: HeNaRa Physio Tickets - Next Milestone
+tphyhgr 0:
+  url: https://projects.henara.de/projects/physio/issues?query_id=30
+  title: Physio HGR
+tphytask 0:
+  url: https://projects.henara.de/projects/henara/issues?query_id=28
+  title: Physio Tasks
